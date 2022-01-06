@@ -1,0 +1,69 @@
+*{
+    margin:0;
+}
+#main{
+    
+    background-color: rgb(16, 119, 236);
+    height: 500px;
+    width:100%;   
+    background-image: url(https://img.freepik.com/free-vector/stylish-wavy-pattern_1409-1077.jpg?size=626&ext=jpg);
+    background-repeat: no-repeat;
+    background-size:100%;
+
+}
+.centerh1{
+    text-align: center;
+    color: black;
+    padding-top: 200px;
+    font-size:48px;
+}
+/* span{
+    background-color:white;
+    
+} */
+#aboutme{
+    text-align: center;
+    height: 500px;
+    width:100%;
+    background-color: beige;
+    padding-top:100px;
+}
+.round{
+    border-radius: 50%;
+}
+
+#portfolio{
+    background-color:rgb(16, 119, 236);
+    height: 500px;
+    width:100%;
+    text-align: center;
+    padding-top: 120px;
+    color:aliceblue;
+
+}
+
+#cv{
+    height:500px;
+    width:100;
+    text-align: center;
+    padding: 20px;
+    background-color:beige;
+}
+
+#nav{
+    background-color:rgb(29, 25, 25);
+    display: flex;
+    justify-content:space-between;
+    /* height: 50px;
+    width: 100%; */
+    padding: 2px;
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+
+li{
+    list-style-type: none;
+}
